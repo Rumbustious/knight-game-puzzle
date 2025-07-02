@@ -12,6 +12,7 @@ obj/
 # VS Code settings (optional if you share workspace config)
 .vscode/
 
+
 # Rider IDE
 .idea/
 
