@@ -22,8 +22,22 @@ namespace MyApp
                 { "0", "0", "0", "0" },
                 { "*", "0", "0", "*" }
             };
-            string[] result = SolveRiddle.Solve(grid);
-            Console.WriteLine(string.Join(", ", result));
+            List<string> result = SolveRiddle.Solve(grid);
+            if (result.Count == 0)
+            {
+                Console.WriteLine("No solution found.");
+                return;
+            }
+            Console.WriteLine("Solutions Found: " + result.Count);
+
+            Console.WriteLine("Paths:");
+            Console.WriteLine("=====================================");
+
+            foreach (var path in result)
+            {
+                Console.WriteLine(path);
+                Console.WriteLine();
+            }
         }
     }
 }

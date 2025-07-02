@@ -1,0 +1,28 @@
+# Build results
+bin/
+obj/
+
+# VS IDE files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code settings (optional if you share workspace config)
+.vscode/
+
+# Rider IDE
+.idea/
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+!*.cs
+!*.sln
+!*.csproj
