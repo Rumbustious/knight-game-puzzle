@@ -1,0 +1,14 @@
+/home/rumb/Desktop/task/bin/Debug/net9.0/task
+/home/rumb/Desktop/task/bin/Debug/net9.0/task.deps.json
+/home/rumb/Desktop/task/bin/Debug/net9.0/task.runtimeconfig.json
+/home/rumb/Desktop/task/bin/Debug/net9.0/task.dll
+/home/rumb/Desktop/task/bin/Debug/net9.0/task.pdb
+/home/rumb/Desktop/task/obj/Debug/net9.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/home/rumb/Desktop/task/obj/Debug/net9.0/task.AssemblyInfoInputs.cache
+/home/rumb/Desktop/task/obj/Debug/net9.0/task.AssemblyInfo.cs
+/home/rumb/Desktop/task/obj/Debug/net9.0/task.csproj.CoreCompileInputs.cache
+/home/rumb/Desktop/task/obj/Debug/net9.0/task.dll
+/home/rumb/Desktop/task/obj/Debug/net9.0/refint/task.dll
+/home/rumb/Desktop/task/obj/Debug/net9.0/task.pdb
+/home/rumb/Desktop/task/obj/Debug/net9.0/task.genruntimeconfig.cache
+/home/rumb/Desktop/task/obj/Debug/net9.0/ref/task.dll
